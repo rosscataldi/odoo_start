@@ -16,7 +16,7 @@ must be used.
 """
 
 # Paths to search for OpenERP addons.
-addons_paths = []
+addons_paths = "/../addons"
 
 # List of server-wide modules to load. Those modules are supposed to provide
 # features not necessarily tied to a particular database. This is in contrast
